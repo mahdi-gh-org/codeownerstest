@@ -1,1 +1,3 @@
+CODEOWNERS @malirezai
+
 *azure_pipelines*.yml @malirezai
